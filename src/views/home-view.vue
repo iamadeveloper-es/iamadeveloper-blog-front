@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const mssg = 'hola'
+const mssg = 'hola';
 </script>
 
 <template lang="pug">
